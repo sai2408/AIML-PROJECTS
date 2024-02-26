@@ -1,7 +1,7 @@
 
 import openai
 
-openai.api_key = "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" 
+openai.api_key = "api" 
 
 prompt = "Write a creative story about traveling to Mars."
 
