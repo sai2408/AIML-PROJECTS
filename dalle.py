@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"  # Replace with your actual API key
+openai.api_key = "" #Replace with your actual API key
 prompt = "a cute cat sitting on a cushion"
 response = openai.Image.create(
     prompt=prompt,
